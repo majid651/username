@@ -1,30 +1,27 @@
 
-### Anahita Taheri
+### magid mohammadi
 
 
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
-+ I am a trader and IT engineering student
++ name: majid
++ last name : mohammadi
++ Date of birth : 1996/february/28
 + location : Tehran , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ translating
-
+Work as a visitor at home
+translating
 
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
-+ Bachelor of science : IT Engineering
-_ payam Noor University of North 
++ Diploma : Noor High School
++ Bachelor of science : computer engineering
 
 ### language
 
@@ -35,15 +32,14 @@ _ payam Noor University of North
 ### Favorites
 
 ---
-+ Trade
 + Studing historical books
-+ travel 
++ travel
 + playing volleyball
 
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Handicrafts Minister.
+I work on seven computer skills
 
 
 
